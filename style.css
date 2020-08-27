@@ -28,6 +28,12 @@ h1 {
 .justify-content-space-between {
     justify-content: space-between;
 }
+.justify-content-center {
+    justify-content: center;
+}
+.margin30{
+    margin: 30px;
+}
 
 .align-items-center {
     align-items: center;
@@ -79,4 +85,12 @@ input[type=text], select, textarea {
       font-family: 'Crimson Text', serif;
       font-size: 20px;
       color: white;
+  }
+
+  .returnhome{
+      background-color: transparent;
+      font-family: 'Crimson Text', serif;
+      font-size: 30px;
+      color: gold;
+      border-color: transparent;
   }
