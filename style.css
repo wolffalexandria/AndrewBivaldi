@@ -19,9 +19,15 @@ body {
 h1 {
     color: gold;
     padding: 30px;
-
+    text-decoration: none;
 }
-
+.logo {
+    background-color: transparent;
+    border-color: transparent;
+    font-family: 'Crimson Text', Serif;
+    font-size: 50px;
+    color: gold;
+}
 .flex {
     display: flex;
 }
